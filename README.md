@@ -49,8 +49,9 @@ by giving us easy access to solutions already utilized by automated systems.
 ## Screenshots
 
 <p>
-  <img width="414" src="https://e7.pngegg.com/pngimages/1006/194/png-clipart-recaptcha-checkbox-user-form-book-now-button-miscellaneous-blue-thumbnail.png">
+  <img width="404" src="https://e7.pngegg.com/pngimages/1006/194/png-clipart-recaptcha-checkbox-user-form-book-now-button-miscellaneous-blue-thumbnail.png">
   <img width="414" src="https://torako.wakarimasen.moe/file/torako/x/image/1617/42/1617425420831.png">
+  <img width="414" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg7tP1lTLtMSXqutii8ypshQ_vOBKLXZ8kLxAwk-X3W3wYD4bywodjJp_092FZeIKh3qU&usqp=CAU">
 </p>
 
 ## License
