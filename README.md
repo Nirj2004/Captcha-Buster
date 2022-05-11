@@ -49,7 +49,7 @@ by giving us easy access to solutions already utilized by automated systems.
 ## Screenshots
 
 <p>
-  <img width="414" src="dhttps://e7.pngegg.com/pngimages/1006/194/png-clipart-recaptcha-checkbox-user-form-book-now-button-miscellaneous-blue-thumbnail.png">
+  <img width="414" src="https://e7.pngegg.com/pngimages/1006/194/png-clipart-recaptcha-checkbox-user-form-book-now-button-miscellaneous-blue-thumbnail.png">
   <img width="414" src="https://torako.wakarimasen.moe/file/torako/x/image/1617/42/1617425420831.png">
 </p>
 
