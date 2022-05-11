@@ -1,2 +1,61 @@
-# Captcha-Buster
-Captcha solver extension for humans.
+<p align-items="center"><img width="128" height="128" src="https://i.imgur.com/uVpmR8l.png"></p>
+<h1 align-items="center">Buster: Captcha Solver for Humans</h1>
+
+<p align-items="center">
+  </br></br>
+  <a href="https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl">
+    <img height="58" src="https://i.imgur.com/K9Yh8G9.png" alt="Chrome Web Store"></a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/">
+    <img height="58" src="https://i.imgur.com/2jJOtTI.png" alt="Firefox add-ons"></a>
+  <a href="https://microsoftedge.microsoft.com/addons/detail/admkpobhocmdideidcndkfaeffadipkc">
+    <img height="58" src="https://i.imgur.com/es2YFRA.png" alt="Microsoft Store"></a>
+  <a href="https://addons.opera.com/en/extensions/details/buster-captcha-solver-for-humans/">
+    <img height="58" src="https://i.imgur.com/IYYsrwg.png" alt="Opera add-ons"></a>
+  </br></br>
+</p>
+
+## Supporting the Project
+
+The continued development of Buster is made possible
+thanks to the support of awesome backers. If you'd like to join them,
+please consider contributing with
+## Paytm : 7439005838@paytm
+## PhonePe : 7439005838@ybl
+## Gpay : 7439005838@okhdfcbank
+## BHIM : nirjhar5838@upi
+
+## Description
+
+> Obviously, this blue part here is the land.
+>
+> — <cite>Byron "Buster" Bluth, reading a map</cite>
+
+Buster is a browser extension which helps you to solve difficult captchas
+by completing reCAPTCHA audio challenges using speech recognition.
+Challenges are solved by clicking on the extension button at the bottom
+of the reCAPTCHA widget.
+
+reCAPTCHA challenges remain a considerable burden on the web,
+delaying and often blocking our access to services and information
+depending on our physical and cognitive abilities, our social
+and cultural background, and the devices or networks we connect from.
+
+The difficulty of captchas can be so out of balance,
+that sometimes they seem friendlier to bots than they are to humans.
+
+The goal of this project is to improve our experience with captchas,
+by giving us easy access to solutions already utilized by automated systems.
+
+## Screenshots
+
+<p>
+  <img width="414" src="https://i.imgur.com/hTqeN4z.png">
+  <img width="414" src="https://i.imgur.com/o0qqDd5.png">
+</p>
+
+## License
+
+Copyright (c) 2022-2042 Nirjhar Biswas
+
+This software is released under the terms of the GNU General Public License v3.0.
+See the [LICENSE](LICENSE) file for further information.
