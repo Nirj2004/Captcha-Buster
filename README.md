@@ -7,11 +7,13 @@
 The continued development of Buster is made possible
 thanks to the support of awesome backers. If you'd like to join them,
 please consider contributing with
-## Paytm : 7439005838@paytm
-## PhonePe : 7439005838@ybl
-## Gpay : 7439005838@okhdfcbank
-## BHIM : nirjhar5838@upi
-
+## Paytm : 7439005838356@paytm
+## PhonePe : nir-7439@ibl
+## Gpay : nirjharbiswas2004@okicici
+## BHIM : 7439005838@upi
+## Tata-Pay : 7439005838@tapicici
+## Fampay : 7439005838@fam
+## Omnicard : 7439005838@omni
 ## Description
 
 > Obviously, this blue part here is the land.
